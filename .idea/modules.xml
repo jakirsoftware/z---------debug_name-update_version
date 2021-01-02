@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/InAppUpdater-master.iml" filepath="$PROJECT_DIR$/.idea/InAppUpdater-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InAppUpdater-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InAppUpdater-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/updatemanager/InAppUpdater-master.updatemanager.iml" filepath="$PROJECT_DIR$/.idea/modules/updatemanager/InAppUpdater-master.updatemanager.iml" />
+    </modules>
+  </component>
+</project>
